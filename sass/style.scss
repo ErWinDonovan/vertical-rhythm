@@ -1,0 +1,12 @@
+@import "compass/reset";
+@import "meta/typography";
+
+body {
+	font-family: "Museo Slab", Georgia, serif;
+}
+
+.wrapper {
+	margin: auto;
+	max-width: 960px;
+	background: rgba(#e86ea4,.5);
+}
